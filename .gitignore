@@ -1,0 +1,9 @@
+
+*.pyc
+*.mp3
+*.mp4
+*.png
+config.env
+log.txt
+shell.txt
+/.vscode
